@@ -9,10 +9,8 @@
   "author": "Shanna-kay Cummings",
   "license": "ISC",
   "type": "module",
-  "devDependencies": {
-    "nodemon": "^2.0.21"
-  },
   "dependencies": {
+    "nodemon":"^2.0.21",
     "node-fetch": "^3.3.1"
   }
 }
